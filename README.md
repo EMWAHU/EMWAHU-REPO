@@ -34,6 +34,10 @@ The datasets provided by Motivate, a bike share system provider in the US, conta
 The Chicago and New York City files also have the following two columns:
 - Gender
 - Birth Year and Date changes
+#
+- Timelines
+- Open 
+- File
 
 
 
