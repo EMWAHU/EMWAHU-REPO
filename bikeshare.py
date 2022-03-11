@@ -23,7 +23,7 @@ def get_filters():
     while True:
         #Create variable ci to hold input answer 
         city = input("Which city would you like to filter by? chicago, new_york_city, washington /n ").lower() #user should input the city name like this
-        if city not in ("chicago", "new_york_city", "washington"):
+        if city not in ("chicago", "new_york_city", "washington", "All"):
             print("Sorry its invalid input ")
             continue
         else:
